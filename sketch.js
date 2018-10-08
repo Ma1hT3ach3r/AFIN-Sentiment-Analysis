@@ -1,7 +1,8 @@
-// Daniel Shiffman
-// http://codingtra.in
-// http://patreon.com/codingtrain
+// Peter Osudar
+// Refactored from: http://codingtra.in
+// Not an original work!
 // Code for: https://youtu.be/VV1JmMYceJw
+// Credit is giving to Daniel Shiffman from NYU ITP program
 
 
 var afinn;
