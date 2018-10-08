@@ -1,0 +1,18 @@
+ body{
+            background:grey;
+        }
+        
+        .list{
+            background:black;
+            color:yellow;
+        }
+        #note{
+            color:pink;
+        }
+        #noteHead{
+            background:pink;
+        }
+        #list2{
+            background:red;
+        
+        }
